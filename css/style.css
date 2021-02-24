@@ -65,6 +65,7 @@ header .botones div {
     padding: 10px;
     cursor: pointer;
     /* display: none; */
+    /*Así consigo que aparezcan y desaparezcan los botones, si no, tendría que usar => display: block;*/
 }
 
 header .botones div:hover {
